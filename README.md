@@ -12,6 +12,8 @@ Rust version 1.72.1, samtools >= 1.17
 Binaries of rust scripts are provided in /bin, and are what the included shell script uses.
 Rust source code is provided in `rust_src` but not referenced in the shell script.
 
+Binaries were built for Linux Ubuntu -- to run on other platforms please use Cargo build --release on `bin/haplotagParse` and `bin/haplotagParseLong`, then move those to `bin`.
+
 ## Usage
 
 ### Stats
