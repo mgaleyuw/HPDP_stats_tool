@@ -1,0 +1,2 @@
+File,Region,Chromosome,Position,Depth,HP1,HP2,PercentAssigned
+example/HG002.HYDIN.bam	TARGET	chr16:70802084-71230722	42	15	16	77
